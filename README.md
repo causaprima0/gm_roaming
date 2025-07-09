@@ -171,7 +171,7 @@ function AGENT:OnActivate()
 end
 ```
 - - -
-### `ROAMING.trace:GetColor(<number: distance>, <number: threshold>)`
+### `ROAMING.trace:GetColor(<number: distance>, <number: threshold>): Color`
 Returns the color for the visual tracer based on distance. You can override this function to change the logic for selecting the tracer color.
 ```lua
 function ROAMING.trace:GetColor(distance, threshold)

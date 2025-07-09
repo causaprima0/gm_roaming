@@ -1,0 +1,254 @@
+{
+    "map": "gm_construct",
+    "gamemode": "sandbox",
+    "sites": {
+    	"construct-11": {
+    		"y": -1594.9912109375,
+    		"x": 614.5494384765625,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-4",
+    			"construct-10",
+    			"construct-12",
+    			"construct-13",
+    			"construct-16",
+    			"construct-17",
+    			"construct-18",
+    			"construct-19",
+    			"construct-18",
+    			"construct-18",
+    			"construct-19",
+    			"construct-19"
+    		]
+    	},
+    	"construct-4": {
+    		"y": 1014.54931640625,
+    		"x": 977.3700561523438,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-3",
+    			"construct-1",
+    			"construct-11",
+    			"construct-15",
+    			"construct-17",
+    			"construct-18"
+    		]
+    	},
+    	"construct-9": {
+    		"y": -1220.1312255859375,
+    		"x": 1707.0006103515625,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-8",
+    			"construct-10"
+    		]
+    	},
+    	"construct-13": {
+    		"y": -2240.133056640625,
+    		"x": 609.8817138671875,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-11",
+    			"construct-12",
+    			"construct-14",
+    			"construct-16",
+    			"construct-17",
+    			"construct-18",
+    			"construct-19",
+    			"construct-18",
+    			"construct-18"
+    		]
+    	},
+    	"construct-10": {
+    		"y": -1600.06103515625,
+    		"x": 1193.69580078125,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-9",
+    			"construct-11",
+    			"construct-15",
+    			"construct-19"
+    		]
+    	},
+    	"construct-7": {
+    		"y": -968.6104125976563,
+    		"x": 2112.759765625,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-6",
+    			"construct-8"
+    		]
+    	},
+    	"construct-5": {
+    		"y": -710.2780151367188,
+    		"x": 1375.5762939453125,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-2",
+    			"construct-3",
+    			"construct-6"
+    		]
+    	},
+    	"construct-17": {
+    		"y": -1200.822509765625,
+    		"x": 613.9378662109375,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-11",
+    			"construct-4",
+    			"construct-13",
+    			"construct-12",
+    			"construct-18",
+    			"construct-19",
+    			"construct-18",
+    			"construct-18",
+    			"construct-19",
+    			"construct-19",
+    			"construct-20"
+    		]
+    	},
+    	"construct-6": {
+    		"y": -720.1673583984375,
+    		"x": 2023.03955078125,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-5",
+    			"construct-7"
+    		]
+    	},
+    	"construct-3": {
+    		"y": 1014.4490356445313,
+    		"x": 1388.9097900390625,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-2",
+    			"construct-4",
+    			"construct-5"
+    		]
+    	},
+    	"construct-1": {
+    		"y": 545.4047241210938,
+    		"x": 848.9285888671875,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-2",
+    			"construct-4",
+    			"construct-18",
+    			"construct-19"
+    		]
+    	},
+    	"construct-2": {
+    		"y": 545.2730102539063,
+    		"x": 1388.7952880859375,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-1",
+    			"construct-3",
+    			"construct-5"
+    		]
+    	},
+    	"construct-8": {
+    		"y": -1216.3861083984375,
+    		"x": 2036.8411865234375,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-7",
+    			"construct-9"
+    		]
+    	},
+    	"construct-20": {
+    		"y": -960.5653686523438,
+    		"x": -1330.373291015625,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-17",
+    			"construct-19"
+    		]
+    	},
+    	"construct-12": {
+    		"y": -1982.06494140625,
+    		"x": 612.1078491210938,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-11",
+    			"construct-13",
+    			"construct-15",
+    			"construct-17",
+    			"construct-18",
+    			"construct-18",
+    			"construct-18",
+    			"construct-19",
+    			"construct-19"
+    		]
+    	},
+    	"construct-19": {
+    		"y": -956.0045776367188,
+    		"x": -663.0630493164063,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-12",
+    			"construct-18",
+    			"construct-15",
+    			"construct-16",
+    			"construct-20"
+    		]
+    	},
+    	"construct-18": {
+    		"y": -957.8142700195313,
+    		"x": 208.59808349609375,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-11",
+    			"construct-13",
+    			"construct-17",
+    			"construct-1",
+    			"construct-12",
+    			"construct-19",
+    			"construct-15",
+    			"construct-19",
+    			"construct-19"
+    		]
+    	},
+    	"construct-14": {
+    		"y": -2243.10009765625,
+    		"x": 1784.114990234375,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-13"
+    		]
+    	},
+    	"construct-15": {
+    		"y": -1572.57666015625,
+    		"x": -427.04473876953125,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-4",
+    			"construct-10",
+    			"construct-12",
+    			"construct-16",
+    			"construct-18",
+    			"construct-19",
+    			"construct-18",
+    			"construct-18",
+    			"construct-19",
+    			"construct-19",
+    			"construct-19",
+    			"construct-19"
+    		]
+    	},
+    	"construct-16": {
+    		"y": -1209.1832275390625,
+    		"x": -426.9833068847656,
+    		"z": -143.96875,
+    		"then": [
+    			"construct-11",
+    			"construct-13",
+    			"construct-15",
+    			"construct-19",
+    			"construct-18",
+    			"construct-19",
+    			"construct-19"
+    		]
+    	}
+    }
+}

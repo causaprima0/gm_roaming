@@ -61,7 +61,9 @@ Each object in the sites key table must contain the point's name as a key, keys 
 }
 ```
 
-Pathmap can be either non-sequential or sequential. A sequential pathmap is characterized by the use of an array in site instead of an object, where each element lacks the then field. It is assumed that in a proper implementation, such an array reflects the sequence of the path (in the order of literal iteration, the very first object represents the very first point of the path, while the last one represents the final point). An example of handling non-sequential arrays is presented in the `construct` agent.
+Pathmap can be either non-sequential or sequential. A sequential pathmap is characterized by the use of an array in site instead of an object, where each element lacks the then field. It is assumed that in a proper implementation, such an array reflects the sequence of the path (in the order of literal iteration, the very first object represents the very first point of the path, while the last one represents the final point). 
+
+An example of handling non-sequential arrays is presented in the `construct` agent.
 
 ```json
 {

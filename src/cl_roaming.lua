@@ -444,6 +444,7 @@ end
 concommand.Add("+roaming", function(client, cmd, args)
     if (isstring(args[1])) then
         return roaming.agent:Import(args[1], function(agent)
+            if (agent.bExperimental) then return; end
             roaming:Warning("Agent '%s' has experimental mode enabled", args[1]);
             return roaming:Warning("Certain features may not work as intended");
         end, function(err)
